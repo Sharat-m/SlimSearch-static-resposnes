@@ -2,68 +2,68 @@
     "results": [
         {
             "price": {
-                "amount": 2794,
+                "amount": 6794,
                 "currency": "INR",
                 "symbol": "₹"
             },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "IXE",
+                        "info": {
+                            "name": "Mangalore Airport",
+                            "city": "Mangalore",
+                            "country": "India"
+                        },
+                        "date": "2024-12-10",
+                        "time": "19:50",
+                        "prettyTime": "19:50",
+                        "prettyDate": "2024-12-10",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/IX.png"
+                    },
+                    "to": {
+                        "iata": "BLR",
+                        "info": {
+                            "name": "Kempegowda International Airport",
+                            "city": "Bengaluru",
+                            "country": "India"
+                        },
+                        "date": "2024-12-10",
+                        "time": "20:55",
+                        "prettyTime": "20:55",
+                        "prettyDate": "2024-12-10",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
+                    }
                 },
-                "date": "2024-12-10",
-                "time": "13:55",
-                "prettyTime": "13:55",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "Air India Express",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10004"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "01",
-                "m": "05"
-            }
-        },
-        {
-            "price": {
-                "amount": 2794,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "19:50",
-                "prettyTime": "19:50",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/IX.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "20:55",
-                "prettyTime": "20:55",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
+                {
+                    "from": {
+                        "iata": "BLR",
+                        "info": {
+                            "name": "Kempegowda International Airport",
+                            "city": "Bengaluru",
+                            "country": "India"
+                        },
+                        "date": "2024-12-10",
+                        "time": "19:50",
+                        "prettyTime": "19:50",
+                        "prettyDate": "2024-12-10",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/IX.png"
+                    },
+                    "to": {
+                        "iata": "IXE",
+                        "info": {
+                            "name": "Mangalore Airport",
+                            "city": "Mangalore",
+                            "country": "India"
+                        },
+                        "date": "2024-12-10",
+                        "time": "20:55",
+                        "prettyTime": "20:55",
+                        "prettyDate": "2024-12-10",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
+                    }
+                }
+            ],
             "totalStops": 0,
             "gate": {
                 "name": "Air India Express",
@@ -79,405 +79,433 @@
         },
         {
             "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
+                "amount": 8099,
+                "currency": "INR"
             },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "DEL",
+                        "info": {
+                            "name": "Indira Gandhi International Airport",
+                            "city": "New Delhi",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "06:00",
+                        "prettyTime": "06:00",
+                        "prettyDate": "2024-12-15",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/AI.png"
+                    },
+                    "to": {
+                        "iata": "BOM",
+                        "info": {
+                            "name": "Chhatrapati Shivaji Maharaj International Airport",
+                            "city": "Mumbai",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "08:30",
+                        "prettyTime": "08:30",
+                        "prettyDate": "2024-12-15",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/BOM.jpg"
+                    }
                 },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
+                {}
+            ],
+            "totalStops": 1,
             "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "10:05",
-                "prettyTime": "10:05",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "11:00",
-                "prettyTime": "11:00",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10002"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
+                "name": "Air India",
                 "is_airline": true
             },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
+            "viewAllUrl": "https://www.farefirst.com/flight-results/DEL-20241215-BOM?adults=1&children=0&infants=0&cabin_class=Y&trip_type=round-trip",
+            "totalFlightsFound": 8,
             "total_duration": {
-                "h": "00",
-                "m": "55"
+                "h": "02",
+                "m": "30"
             }
         },
         {
             "price": {
-                "amount": 2813,
+                "amount": 5499,
                 "currency": "INR",
                 "symbol": "₹"
             },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "TRV",
+                        "info": {
+                            "name": "Trivandrum International Airport",
+                            "city": "Thiruvananthapuram",
+                            "country": "India"
+                        },
+                        "date": "2024-12-20",
+                        "time": "06:00",
+                        "prettyTime": "06:00",
+                        "prettyDate": "2024-12-20",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/TRV.png"
+                    },
+                    "to": {
+                        "iata": "COK",
+                        "info": {
+                            "city": "Kochi",
+                            "country": "India"
+                        },
+                        "date": "2024-12-20",
+                        "time": "07:30",
+                        "prettyTime": "07:30",
+                        "prettyDate": "2024-12-20",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/COK.jpg"
+                    }
                 },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
+                {
+                    "from": {
+                        "iata": "COK",
+                        "info": {
+                            "name": "Cochin International Airport",
+                            "city": "Kochi",
+                            "country": "India"
+                        },
+                        "date": "2024-12-20",
+                        "time": "06:00",
+                        "prettyTime": "06:00",
+                        "prettyDate": "2024-12-20",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/COK.png"
+                    },
+                    "to": {
+                        "iata": "TRV",
+                        "info": {
+                            "name": "Trivandrum International Airport",
+                            "city": "Thiruvananthapuram",
+                            "country": "India"
+                        },
+                        "date": "2024-12-20",
+                        "time": "07:30",
+                        "prettyTime": "07:30",
+                        "prettyDate": "2024-12-20",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/TRV.jpg"
+                    }
+                }
+            ],
             "totalStops": 0,
             "gate": {
-                "name": "IndiGo",
+                "name": "Air India Express",
                 "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
+                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10007"
             },
             "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
             "totalFlightsFound": 7,
             "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        }, 
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        }, 
-        {
-            "price": {
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "",
-                    "city": "Mangalore"
-                },
-                "date": "2024-10",
-                "time": null,
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airl/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "",
-                    "city": null,
-                    "country": "India"
-                },
-                "date": null,
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": null
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
+                "h": "01",
+                "m": "05"
             }
         },
         {
             "price": {
-                "amount": 2813,
+                "amount": 4999,
                 "currency": "INR",
                 "symbol": "₹"
             },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "BLR",
+                        "info": {
+                            "name": "Kempegowda International Airport",
+                            "city": "Bengaluru",
+                            "country": "India"
+                        },
+                        "date": "2024-12-25",
+                        "time": "05:00",
+                        "prettyTime": "05:00",
+                        "prettyDate": "2024-12-25",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/BLR.png"
+                    },
+                    "to": {
+                        "iata": "HYD",
+                        "info": {
+                            "name": "Rajiv Gandhi International Airport",
+                            "city": "Hyderabad",
+                            "country": "India"
+                        },
+                        "date": "2024-12-25",
+                        "time": "06:30",
+                        "prettyTime": "06:30",
+                        "prettyDate": "2024-12-25",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/HYD.jpg"
+                    }
                 },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
+                {
+                    "from": {
+                        "iata": "HYD",
+                        "info": {
+                            "name": "Rajiv Gandhi International Airport",
+                            "city": "Hyderabad",
+                            "country": "India"
+                        },
+                        "date": "2024-12-25",
+                        "time": "05:00",
+                        "prettyTime": "05:00",
+                        "prettyDate": "2024-12-25"
+                    },
+                    "to": {
+                        "iata": "BLR",
+                        "info": {
+                            "name": "Kempegowda International Airport",
+                            "city": "Bengaluru",
+                            "country": "India"
+                        },
+                        "date": "2024-12-25",
+                        "time": "06:30",
+                        "prettyTime": "06:30",
+                        "prettyDate": "2024-12-25",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
+                    }
+                }
+            ],
             "totalStops": 0,
             "gate": {
-                "name": "IndiGo",
+                "name": "Air India Express",
                 "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
+                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10007"
             },
             "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
             "totalFlightsFound": 7,
             "total_duration": {
-                "h": "00",
-                "m": "55"
+                "h": "01",
+                "m": "05"
             }
         },
         {
+            "price": {
+                "amount": 5999,
+                "currency": "INR",
+                "symbol": "₹"
+            },
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "MAA",
+                        "info": {
+                            "name": "Chennai International Airport",
+                            "city": "Chennai",
+                            "country": "India"
+                        },
+                        "date": "2024-12-29",
+                        "time": "04:00",
+                        "prettyTime": "04:00",
+                        "prettyDate": "2024-12-29",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/MAA.png"
+                    },
+                    "to": {
+                        "iata": "DEL",
+                        "info": {
+                            "name": "Indira Gandhi International Airport",
+                            "city": "New Delhi",
+                            "country": "India"
+                        },
+                        "date": "2024-12-29",
+                        "time": "05:30",
+                        "prettyTime": "05:30",
+                        "prettyDate": "2024-12-29",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/DEL.jpg"
+                    }
+                },
+                {
+                    "from": {
+                        "iata": "DEL",
+                        "info": {
+                            "name": "Indira Gandhi International Airport",
+                            "city": "New Delhi",
+                            "country": "India"
+                        },
+                        "date": "2024-12-29",
+                        "time": "04:00",
+                        "prettyTime": "04:00",
+                        "prettyDate": "2024-12-29",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/DEL.png"
+                    },
+                    "to": {
+                        "iata": "MAA",
+                        "info": {
+                            "name": "Chennai International Airport",
+                            "city": "Chennai",
+                            "country": "India"
+                        },
+                        "date": "2024-12-29",
+                        "time": "05:30",
+                        "prettyTime": "05:30",
+                        "prettyDate": "2024-12-29",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/MAA.jpg"
+                    }
+                }
+            ],
+            "totalStops": 0,
+            "gate": {
+                "name": "Air India Express",
+                "is_airline": true,
+                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10007"
+            },
+            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
+            "totalFlightsFound": 7,
+            "total_duration": {
+                "h": "01",
+                "m": "05"
+            }
+        },
+        {
+            "price": {
+                "amount": 5999,
+                "currency": "INR",
+                "symbol": "₹"
+            },
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "AMD",
+                        "info": {
+                            "name": "Sardar Vallabhbhai Patel International Airport",
+                            "city": "Ahmedabad",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "07:00",
+                        "prettyTime": "07:00",
+                        "prettyDate": "2024-12-15",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/AMD.png"
+                    },
+                    "to": {
+                        "iata": "PUNE",
+                        "info": {
+                            "name": "Pune Airport",
+                            "city": "Pune",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "08:30",
+                        "prettyTime": "08:30",
+                        "prettyDate": "2024-12-15",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/PUNE.jpg"
+                    }
+                },
+                {
+                    "from": {
+                        "iata": "PUNE",
+                        "info": {
+                            "name": "Pune Airport",
+                            "city": "Pune",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "07:00",
+                        "prettyTime": "07:00",
+                        "prettyDate": "2024-12-15",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/PUNE.png"
+                    },
+                    "to": {
+                        "iata": "AMD",
+                        "info": {
+                            "name": "Sardar Vallabhbhai Patel International Airport",
+                            "city": "Ahmedabad",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "08:30",
+                        "prettyTime": "08:30",
+                        "prettyDate": "2024-12-15",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/AMD.jpg"
+                    }
+                }
+            ],
+            "totalStops": 0,
+            "gate": {
+                "name": "Air India Express",
+                "is_airline": true,
+                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10007"
+            },
+            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
+            "totalFlightsFound": 7,
+            "total_duration": {
+                "h": "05",
+                "m": "05"
+            }
+        },
+        {
+            "price": {
+                "amount": 5999,
+                "currency": "INR",
+                "symbol": "₹"
+            },
+            "f_data": [
+                {
+                    "from": {
+                        "iata": "AMD",
+                        "info": {
+                            "name": "Sardar Vallabhbhai Patel International Airport",
+                            "city": "Ahmedabad",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "07:00",
+                        "prettyTime": "07:00",
+                        "prettyDate": "2024-12-15",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/AMD.png"
+                    },
+                    "to": {
+                        "iata": "PUNE",
+                        "info": {
+                            "name": "Pune Airport",
+                            "city": "Pune",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "08:30",
+                        "prettyTime": "08:30",
+                        "prettyDate": "2024-12-15",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/PUNE.jpg"
+                    }
+                },
+                {
+                    "from": {
+                        "iata": "PUNE",
+                        "info": {
+                            "name": "Pune Airport",
+                            "city": "Pune",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "07:00",
+                        "prettyTime": "07:00",
+                        "prettyDate": "2024-12-15",
+                        "airlineLogoUrl": "https://images.kiwi.com/airlines/128/PUNE.png"
+                    },
+                    "to": {
+                        "iata": "AMD",
+                        "info": {
+                            "name": "Sardar Vallabhbhai Patel International Airport",
+                            "city": "Ahmedabad",
+                            "country": "India"
+                        },
+                        "date": "2024-12-15",
+                        "time": "08:30",
+                        "prettyTime": "08:30",
+                        "prettyDate": "2024-12-15",
+                        "image": "https://photo.hotellook.com/static/cities/400x200/AMD.jpg"
+                    }
+                }
+            ],
+            "totalStops": 0,
+            "gate": {
+                "is_airline": true,
+                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10007"
+            },
+            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
+            "totalFlightsFound": 7,
+            "total_duration": {
+                "h": "03",
+                "m": "05"
+            }
         }
     ]
 }
