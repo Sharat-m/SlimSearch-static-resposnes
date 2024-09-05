@@ -1,483 +1,2356 @@
 {
-    "results": [
-        {
-            "price": {
-                "amount": 2794,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "13:55",
-                "prettyTime": "13:55",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "Air India Express",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10004"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "01",
-                "m": "05"
-            }
-        },
-        {
-            "price": {
-                "amount": 2794,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "19:50",
-                "prettyTime": "19:50",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/IX.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "20:55",
-                "prettyTime": "20:55",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "Air India Express",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10007"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "01",
-                "m": "05"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "10:05",
-                "prettyTime": "10:05",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "11:00",
-                "prettyTime": "11:00",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10002"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        }, 
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        }, 
-        {
-            "price": {
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "",
-                    "city": "Mangalore"
-                },
-                "date": "2024-10",
-                "time": null,
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airl/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "",
-                    "city": null,
-                    "country": "India"
-                },
-                "date": null,
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": null
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-            "price": {
-                "amount": 2813,
-                "currency": "INR",
-                "symbol": "₹"
-            },
-            "from": {
-                "iata": "IXE",
-                "info": {
-                    "name": "Mangalore Airport",
-                    "city": "Mangalore",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "07:40",
-                "prettyTime": "07:40",
-                "prettyDate": "2024-12-10",
-                "airlineLogoUrl": "https://images.kiwi.com/airlines/128/6E.png"
-            },
-            "to": {
-                "iata": "BLR",
-                "info": {
-                    "name": "Kempegowda International Airport",
-                    "city": "Bengaluru",
-                    "country": "India"
-                },
-                "date": "2024-12-10",
-                "time": "08:35",
-                "prettyTime": "08:35",
-                "prettyDate": "2024-12-10",
-                "image": "https://photo.hotellook.com/static/cities/400x200/BLR.jpg"
-            },
-            "totalStops": 0,
-            "gate": {
-                "name": "IndiGo",
-                "is_airline": true,
-                "redirectUrl": "https://www.farefirst.com/api/v1/flight_search/click-and-redirect?uuid=3tR5ytWvMaB1wyqBy3Jf&termsUrl=10001"
-            },
-            "viewAllUrl": "https://www.farefirst.com/flight-results/IXE-20241210-BLR?adults=1&children=0&infants=0&cabin_class=Y&trip_type=one-way",
-            "totalFlightsFound": 7,
-            "total_duration": {
-                "h": "00",
-                "m": "55"
-            }
-        },
-        {
-        }
-    ]
+  "response": [
+    {
+      "id": "04345da5-e7a9-4cf2-8810-7fe629658a81",
+      "type": "city",
+      "code": "DEL",
+      "name": "Delhi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.10079,
+        "lat": 28.556555
+      },
+      "index_strings": [],
+      "weight": 14889,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": null
+    },
+    {
+      "id": "e4542105-e0a4-44e1-8245-16ca6c9c9a8c",
+      "type": "city",
+      "code": "GOI",
+      "name": "Goa",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.83983,
+        "lat": 15.384534
+      },
+      "index_strings": [],
+      "weight": 7834,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": null
+    },
+    {
+      "id": "c715320f-fe86-4345-bf8e-ae87d954457b",
+      "type": "airport",
+      "code": "DEL",
+      "name": "Indira Gandhi International Airport",
+      "country_code": "IN",
+      "country_name": "India",
+      "city_code": "DEL",
+      "city_name": "Delhi",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.10079,
+        "lat": 28.556555
+      },
+      "index_strings": [],
+      "weight": 9793,
+      "cases": null,
+      "city_cases": null,
+      "country_cases": null
+    },
+    {
+      "id": "d71de552-2900-40b9-a33a-57b8c42f82be",
+      "type": "city",
+      "code": "BOM",
+      "name": "Mumbai",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 72.87497,
+        "lat": 19.095509
+      },
+      "index_strings": [],
+      "weight": 4029,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Chhatrapati Shivaji International Airport"
+    },
+    {
+      "id": "f7771a33-c32e-4300-a41c-2ebc88f223cc",
+      "type": "airport",
+      "code": "GOX",
+      "name": "Manohar International Airport",
+      "country_code": "IN",
+      "country_name": "India",
+      "city_code": "GOI",
+      "city_name": "Goa",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.8631,
+        "lat": 15.7302
+      },
+      "index_strings": [],
+      "weight": 4250,
+      "cases": null,
+      "city_cases": null,
+      "country_cases": null
+    },
+    {
+      "id": "706875e5-9f74-4ff4-9cba-d0b8e87ffff0",
+      "type": "city",
+      "code": "IND",
+      "name": "Indianapolis",
+      "country_code": "US",
+      "country_name": "United States",
+      "state_code": "IN",
+      "coordinates": {
+        "lon": -86.29805,
+        "lat": 39.714516
+      },
+      "index_strings": [],
+      "weight": 1074,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Indianapolis International Airport"
+    },
+    {
+      "id": "8bf74bef-b070-40ab-bba0-6a2424cdef52",
+      "type": "city",
+      "code": "TRV",
+      "name": "Thiruvananthapuram",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.91907,
+        "lat": 8.476126
+      },
+      "index_strings": [],
+      "weight": 1184,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Trivandrum International Airport"
+    },
+    {
+      "id": "5b1edcc8-7f14-4da4-b7ea-e7f23f1c98e9",
+      "type": "city",
+      "code": "BLR",
+      "name": "Bengaluru",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.70556,
+        "lat": 13.198889
+      },
+      "index_strings": [],
+      "weight": 1696,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kempegowda International Airport"
+    },
+    {
+      "id": "a454dfd2-9696-4715-b57d-30a8a8bf396d",
+      "type": "city",
+      "code": "MAA",
+      "name": "Chennai",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 80.16378,
+        "lat": 12.982267
+      },
+      "index_strings": [],
+      "weight": 1467,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Chennai Airport"
+    },
+    {
+      "id": "fc0d7b15-61bc-42fc-8df6-06db010e4585",
+      "type": "city",
+      "code": "CCU",
+      "name": "Kolkata",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 88.43931,
+        "lat": 22.64531
+      },
+      "index_strings": [],
+      "weight": 1000,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Netaji Subhas Chandra Bose Airport"
+    },
+    {
+      "id": "e77735e9-4479-42ac-be1e-c1a79db715e8",
+      "type": "airport",
+      "code": "GOI",
+      "name": "Dabolim Airport",
+      "country_code": "IN",
+      "country_name": "India",
+      "city_code": "GOI",
+      "city_name": "Goa",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.83983,
+        "lat": 15.384534
+      },
+      "index_strings": [],
+      "weight": 1802,
+      "cases": null,
+      "city_cases": null,
+      "country_cases": null
+    },
+    {
+      "id": "1cda4fa7-eb96-42e8-80e1-030d9c1033d5",
+      "type": "city",
+      "code": "COK",
+      "name": "Kochi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.39053,
+        "lat": 10.155644
+      },
+      "index_strings": [],
+      "weight": 1206,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Cochin International Airport"
+    },
+    {
+      "id": "f969dd9d-55c0-47fe-8079-25ab3a1ec5cc",
+      "type": "city",
+      "code": "VNS",
+      "name": "Varanasi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 82.85373,
+        "lat": 25.449697
+      },
+      "index_strings": [],
+      "weight": 451,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Lal Bahadur Shastri International Airport"
+    },
+    {
+      "id": "457b16fb-52f7-42bd-9e96-0244114db984",
+      "type": "city",
+      "code": "IXL",
+      "name": "Leh",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.54746,
+        "lat": 34.14035
+      },
+      "index_strings": [],
+      "weight": 241,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Leh Airport"
+    },
+    {
+      "id": "ecb78441-5b8f-46e9-bef7-a5b530e7f31d",
+      "type": "city",
+      "code": "AMD",
+      "name": "Ahmedabad",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 72.62417,
+        "lat": 23.06639
+      },
+      "index_strings": [],
+      "weight": 795,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Ahmedabad Airport"
+    },
+    {
+      "id": "4481b724-f112-492e-847e-2887cf913ecb",
+      "type": "city",
+      "code": "DHM",
+      "name": "Dharamsala",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.26667,
+        "lat": 32.3
+      },
+      "index_strings": [],
+      "weight": 164,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Gaggal Airport"
+    },
+    {
+      "id": "ae9b64b2-1751-42a1-9b67-5a451caf0ca7",
+      "type": "city",
+      "code": "HYD",
+      "name": "Hyderabad",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.486671,
+        "lat": 17.385044
+      },
+      "index_strings": [],
+      "weight": 896,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Rajiv Gandhi International Airport"
+    },
+    {
+      "id": "405274ca-907f-4c38-a055-564591176e8d",
+      "type": "city",
+      "code": "GAY",
+      "name": "Gaya",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 84.94583,
+        "lat": 24.746668
+      },
+      "index_strings": [],
+      "weight": 143,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Gaya Airport"
+    },
+    {
+      "id": "2a6320da-30d2-4fd8-95bc-06d101c8795f",
+      "type": "city",
+      "code": "DED",
+      "name": "Dehra Dun",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.03333,
+        "lat": 30.316668
+      },
+      "index_strings": [],
+      "weight": 172,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Dehra Dun Airport"
+    },
+    {
+      "id": "14809b2c-dd56-462f-a6b7-43e70883363d",
+      "type": "city",
+      "code": "CCJ",
+      "name": "Kozhikode",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.950584,
+        "lat": 11.14025
+      },
+      "index_strings": [],
+      "weight": 609,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Calicut International Airport"
+    },
+    {
+      "id": "aa55da41-9662-4cf7-973c-ac4b71785152",
+      "type": "city",
+      "code": "CJB",
+      "name": "Coimbatore",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.03893,
+        "lat": 11.031026
+      },
+      "index_strings": [],
+      "weight": 164,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Coimbatore International Airport"
+    },
+    {
+      "id": "9270f2c4-8a35-4d67-82b0-37ad4c7e0602",
+      "type": "city",
+      "code": "PNQ",
+      "name": "Pune",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.920555,
+        "lat": 18.581388
+      },
+      "index_strings": [],
+      "weight": 268,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Pune Airport"
+    },
+    {
+      "id": "ca61ae2d-697c-4723-a80e-59ca55ed1d48",
+      "type": "city",
+      "code": "ATQ",
+      "name": "Amritsar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.8073,
+        "lat": 31.706741
+      },
+      "index_strings": [],
+      "weight": 560,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Sri Guru Ram Dass Jee International Airport"
+    },
+    {
+      "id": "687aa5fa-0ead-4c43-8c1c-e4e5b2d0300e",
+      "type": "city",
+      "code": "GOP",
+      "name": "Gorakhpur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 83.44376,
+        "lat": 26.746862
+      },
+      "index_strings": [],
+      "weight": 63,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Gorakhpur Airport"
+    },
+    {
+      "id": "641c9235-1049-4802-a64d-7eb7fd8c0b4a",
+      "type": "city",
+      "code": "BBI",
+      "name": "Bhubaneswar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 85.81738,
+        "lat": 20.252853
+      },
+      "index_strings": [],
+      "weight": 192,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Biju Patnaik International Airport"
+    },
+    {
+      "id": "70b7bdb0-0514-42f3-aba7-7802aa739ac8",
+      "type": "city",
+      "code": "KUU",
+      "name": "Kulu",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.1,
+        "lat": 31.983334
+      },
+      "index_strings": [],
+      "weight": 68,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bhuntar Airport"
+    },
+    {
+      "id": "8553833c-2044-4456-a760-a228a6792e84",
+      "type": "city",
+      "code": "JAI",
+      "name": "Jaipur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.80151,
+        "lat": 26.820772
+      },
+      "index_strings": [],
+      "weight": 244,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jaipur Airport"
+    },
+    {
+      "id": "6d10c69a-fc5d-4804-99c7-6e820d19d437",
+      "type": "city",
+      "code": "SXR",
+      "name": "Srinagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.762634,
+        "lat": 34.002308
+      },
+      "index_strings": [],
+      "weight": 189,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Srinagar International Airport"
+    },
+    {
+      "id": "ddcfc30d-3d1c-4472-931d-62f017779540",
+      "type": "city",
+      "code": "DBR",
+      "name": "Darbhanga",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 85.89842455709459,
+        "lat": 26.164916309531577
+      },
+      "index_strings": [],
+      "weight": 46,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Darbhanga"
+    },
+    {
+      "id": "e52c8a57-6713-4988-8cf7-6ac6a96eb58e",
+      "type": "city",
+      "code": "IXB",
+      "name": "Bagdogra",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 88.324814,
+        "lat": 26.68488
+      },
+      "index_strings": [],
+      "weight": 143,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bagdogra Airport"
+    },
+    {
+      "id": "5de1b132-6651-4250-8be2-c10bd003a4f8",
+      "type": "city",
+      "code": "IXU",
+      "name": "Aurangabad",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.39721,
+        "lat": 19.866465
+      },
+      "index_strings": [],
+      "weight": 65,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Chikkalthana Airport"
+    },
+    {
+      "id": "ab690287-0d7d-46a6-8824-1e7db11db7c0",
+      "type": "city",
+      "code": "IXE",
+      "name": "Mangalore",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.890144,
+        "lat": 12.963543
+      },
+      "index_strings": [],
+      "weight": 161,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Mangalore Airport"
+    },
+    {
+      "id": "93dade09-2aa8-46f7-b672-595a8cd9dda1",
+      "type": "city",
+      "code": "AYJ",
+      "name": "Ayodhya",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 82.2,
+        "lat": 26.8
+      },
+      "index_strings": [],
+      "weight": 40,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Ayodhya Airport"
+    },
+    {
+      "id": "83e5954e-dc76-43c4-9863-b94b57f02508",
+      "type": "city",
+      "code": "NAG",
+      "name": "Nagpur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.05636,
+        "lat": 21.090036
+      },
+      "index_strings": [],
+      "weight": 91,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Dr. Babasaheb Ambedkar International Airport"
+    },
+    {
+      "id": "64f50955-c17d-4f3c-acfb-6bcdab289cc3",
+      "type": "city",
+      "code": "IXC",
+      "name": "Chandigarh",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.797386,
+        "lat": 30.674921
+      },
+      "index_strings": [],
+      "weight": 147,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Chandigarh Airport"
+    },
+    {
+      "id": "2e274b0a-42a5-42bd-a97b-711c701db7eb",
+      "type": "city",
+      "code": "IXM",
+      "name": "Madurai",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.09112,
+        "lat": 9.837471
+      },
+      "index_strings": [],
+      "weight": 77,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Madurai Airport"
+    },
+    {
+      "id": "a4836964-466b-41c7-a8a6-27ba8d05fb4d",
+      "type": "city",
+      "code": "HJR",
+      "name": "Khajuraho",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.91642,
+        "lat": 24.818747
+      },
+      "index_strings": [],
+      "weight": 32,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Khajuraho Airport"
+    },
+    {
+      "id": "9e2c559b-55ed-476b-802d-fe8f4079f888",
+      "type": "city",
+      "code": "IMF",
+      "name": "Imphal",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 93.897064,
+        "lat": 24.76457
+      },
+      "index_strings": [],
+      "weight": 28,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Imphal Municipal Airport"
+    },
+    {
+      "id": "35e2fcff-f8be-4df2-88cd-9395fd335d60",
+      "type": "city",
+      "code": "IXD",
+      "name": "Prayagraj",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 81.736115,
+        "lat": 25.439722
+      },
+      "index_strings": [],
+      "weight": 27,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bamrauli Airport"
+    },
+    {
+      "id": "c94dce9d-73f7-4ef8-8396-c3a8ff42631f",
+      "type": "city",
+      "code": "IXZ",
+      "name": "Port Blair",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 92.73227,
+        "lat": 11.650083
+      },
+      "index_strings": [],
+      "weight": 74,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Port Blair Airport"
+    },
+    {
+      "id": "d884de46-c561-4216-a6a8-482f069334ea",
+      "type": "city",
+      "code": "AGR",
+      "name": "Agra",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.962776,
+        "lat": 27.158333
+      },
+      "index_strings": [],
+      "weight": 39,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kheria"
+    },
+    {
+      "id": "47c37890-7d5a-47a7-ae99-e9b7ed1f089b",
+      "type": "city",
+      "code": "IXA",
+      "name": "Agartala",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 91.244514,
+        "lat": 23.8926
+      },
+      "index_strings": [],
+      "weight": 25,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Agartala Airport"
+    },
+    {
+      "id": "cd7f8a70-d3f6-48ba-8337-b533b1c55e66",
+      "type": "city",
+      "code": "LKO",
+      "name": "Lucknow",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 80.884186,
+        "lat": 26.764257
+      },
+      "index_strings": [],
+      "weight": 427,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Chaudhary Charan Singh International Airport"
+    },
+    {
+      "id": "f40bec19-4829-45b4-af48-b08e1a2befb2",
+      "type": "city",
+      "code": "PAT",
+      "name": "Patna",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 85.09067,
+        "lat": 25.59489
+      },
+      "index_strings": [],
+      "weight": 226,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jay Prakash Narayan International Airport"
+    },
+    {
+      "id": "89afbe36-276d-47c5-b5fb-6a969f5bfafa",
+      "type": "city",
+      "code": "UDR",
+      "name": "Udaipur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.891266,
+        "lat": 24.61919
+      },
+      "index_strings": [],
+      "weight": 70,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Maharana Pratap Airport"
+    },
+    {
+      "id": "d2c17904-2688-43e8-b02b-607bcd93fcbf",
+      "type": "city",
+      "code": "IXS",
+      "name": "Silchar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 92.979256,
+        "lat": 24.916018
+      },
+      "index_strings": [],
+      "weight": 20,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kumbhirgram Airport"
+    },
+    {
+      "id": "aae29724-59bd-4060-bbdf-12c405de9ef6",
+      "type": "city",
+      "code": "GAU",
+      "name": "Guwahati",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 91.58881,
+        "lat": 26.105982
+      },
+      "index_strings": [],
+      "weight": 185,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Lokpriya Gopinath Bordoloi International Airport"
+    },
+    {
+      "id": "c59ce5eb-c695-4374-bcd3-12ae3f2cef8f",
+      "type": "city",
+      "code": "DIB",
+      "name": "Dibrugarh",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 95.021065,
+        "lat": 27.482908
+      },
+      "index_strings": [],
+      "weight": 18,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Dibrugarh Airport"
+    },
+    {
+      "id": "17c80218-09a9-45f9-97f6-2ca202465067",
+      "type": "city",
+      "code": "RDP",
+      "name": "Durgapur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 87.32,
+        "lat": 23.55
+      },
+      "index_strings": [],
+      "weight": 14,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kazi Nazrul Islam"
+    },
+    {
+      "id": "84285929-b5c5-43db-a112-7165c61153b9",
+      "type": "city",
+      "code": "KNU",
+      "name": "Kanpur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 80.4125,
+        "lat": 26.402779
+      },
+      "index_strings": [],
+      "weight": 14,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kanpur Airport"
+    },
+    {
+      "id": "f8f1d988-e8b4-485a-a7c8-ac5d8d523487",
+      "type": "city",
+      "code": "PGH",
+      "name": "Pantnagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.47361,
+        "lat": 29.031944
+      },
+      "index_strings": [],
+      "weight": 15,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Pantnagar Airport"
+    },
+    {
+      "id": "d4085f1b-361f-4353-a351-8045541d6ec6",
+      "type": "city",
+      "code": "CNN",
+      "name": "Kannur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.35556,
+        "lat": 11.86889
+      },
+      "index_strings": [],
+      "weight": 76,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kannur International Airport"
+    },
+    {
+      "id": "af2de4a8-0c0d-4a15-a356-239550b80ead",
+      "type": "city",
+      "code": "SLV",
+      "name": "Simla",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.15,
+        "lat": 31.116667
+      },
+      "index_strings": [],
+      "weight": 16,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Simla"
+    },
+    {
+      "id": "eee8f846-2113-48c7-91f2-95c6c2812fa4",
+      "type": "city",
+      "code": "TIR",
+      "name": "Tirupati",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.54293,
+        "lat": 13.635721
+      },
+      "index_strings": [],
+      "weight": 43,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Tirupati Airport"
+    },
+    {
+      "id": "926caafd-7460-4e91-a11b-4636982282e7",
+      "type": "city",
+      "code": "JLR",
+      "name": "Jabalpur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.925,
+        "lat": 22.666668
+      },
+      "index_strings": [],
+      "weight": 28,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jabalpur Airport"
+    },
+    {
+      "id": "ca72a6b2-6ac8-4feb-8079-c69ff4596bee",
+      "type": "city",
+      "code": "BDQ",
+      "name": "Vadodara",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.2157,
+        "lat": 22.329077
+      },
+      "index_strings": [],
+      "weight": 56,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Vadodara Airport"
+    },
+    {
+      "id": "46b8d1b2-3ef4-4bc4-9e91-0a5e292a94c5",
+      "type": "city",
+      "code": "STV",
+      "name": "Surat Gujarat",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 72.745255,
+        "lat": 21.117659
+      },
+      "index_strings": [],
+      "weight": 43,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Surat Gujarat Airport"
+    },
+    {
+      "id": "40bfbafe-1274-4820-b230-0d05c7b98b87",
+      "type": "city",
+      "code": "SXV",
+      "name": "Salem",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.166664,
+        "lat": 11.65
+      },
+      "index_strings": [],
+      "weight": 8,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Salem"
+    },
+    {
+      "id": "8a027ab2-a346-466f-98b0-7bd429b7ee38",
+      "type": "city",
+      "code": "JSA",
+      "name": "Jaisalmer",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.9,
+        "lat": 26.916668
+      },
+      "index_strings": [],
+      "weight": 11,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jaisalmer"
+    },
+    {
+      "id": "61a1fb53-7046-46c7-95f6-507768de3d35",
+      "type": "city",
+      "code": "IXG",
+      "name": "Belgaum",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.61833,
+        "lat": 15.858611
+      },
+      "index_strings": [],
+      "weight": 8,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Belgaum Airport"
+    },
+    {
+      "id": "17bda7ef-65b6-4aa7-ac78-aaab5239d3c2",
+      "type": "city",
+      "code": "TCR",
+      "name": "Tuticorin",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.03333,
+        "lat": 8.716667
+      },
+      "index_strings": [],
+      "weight": 8,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Tuticorin Airport"
+    },
+    {
+      "id": "f3a41491-5341-4add-8177-79f9e46a6d9a",
+      "type": "city",
+      "code": "VTZ",
+      "name": "Vishakhapatnam",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 83.22675,
+        "lat": 17.728151
+      },
+      "index_strings": [],
+      "weight": 96,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Vishakhapatnam Airport"
+    },
+    {
+      "id": "51c787c4-b9c5-4dc3-b38d-12c9420fb481",
+      "type": "city",
+      "code": "BHJ",
+      "name": "Bhuj",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 69.670555,
+        "lat": 23.2875
+      },
+      "index_strings": [],
+      "weight": 8,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Rudra Mata Airport"
+    },
+    {
+      "id": "8a4b7cb2-0a8c-40b0-a6c3-6fee583517e7",
+      "type": "city",
+      "code": "HGI",
+      "name": "Itanagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 93.62,
+        "lat": 27.1
+      },
+      "index_strings": [],
+      "weight": 7,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Itanagar"
+    },
+    {
+      "id": "4d969338-013b-432c-a167-4eba59f2dadd",
+      "type": "city",
+      "code": "DIU",
+      "name": "Diu",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.916664,
+        "lat": 20.716667
+      },
+      "index_strings": [],
+      "weight": 7,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Diu Airport"
+    },
+    {
+      "id": "96202dff-4bce-43f4-bee6-d5169c2004b0",
+      "type": "city",
+      "code": "DMU",
+      "name": "Dimapur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 93.772865,
+        "lat": 25.879816
+      },
+      "index_strings": [],
+      "weight": 7,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Dimapur Airport"
+    },
+    {
+      "id": "00151b10-bc8c-41ef-9a4c-d4961edf6001",
+      "type": "city",
+      "code": "DGH",
+      "name": "Deoghar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 86.7,
+        "lat": 24.48
+      },
+      "index_strings": [],
+      "weight": 6,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Deoghar Airport"
+    },
+    {
+      "id": "8e3d1e8e-5175-4d0b-8426-93008353f7e7",
+      "type": "city",
+      "code": "VGA",
+      "name": "Vijayawada",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 80.79722,
+        "lat": 16.529444
+      },
+      "index_strings": [],
+      "weight": 57,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Vijayawada Airport"
+    },
+    {
+      "id": "1ed52f83-33bd-4feb-bfb6-0cf9b4ed097f",
+      "type": "city",
+      "code": "RJA",
+      "name": "Rajahmundry",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 81.82081,
+        "lat": 17.109638
+      },
+      "index_strings": [],
+      "weight": 19,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Rajahmundry Airport"
+    },
+    {
+      "id": "f7709e7d-4ac5-4c35-adf0-e16ce04bc57e",
+      "type": "city",
+      "code": "NDC",
+      "name": "Nanded",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.316666,
+        "lat": 19.183332
+      },
+      "index_strings": [],
+      "weight": 5,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Nanded"
+    },
+    {
+      "id": "ab2e71d6-7a9e-42a2-84c2-cef362c799c1",
+      "type": "city",
+      "code": "JDH",
+      "name": "Jodhpur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.05055,
+        "lat": 26.263948
+      },
+      "index_strings": [],
+      "weight": 36,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jodhpur Airport"
+    },
+    {
+      "id": "6e255340-8715-450f-815f-4ef2c84b5455",
+      "type": "city",
+      "code": "TRZ",
+      "name": "Tiruchirappalli",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.70724,
+        "lat": 10.762168
+      },
+      "index_strings": [],
+      "weight": 151,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Tiruchirapalli International Airport"
+    },
+    {
+      "id": "d7021ebe-8b4d-4699-9b74-7a9df930202f",
+      "type": "city",
+      "code": "JRG",
+      "name": "Jharsuguda",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 84.03,
+        "lat": 21.85
+      },
+      "index_strings": [],
+      "weight": 4,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Veer Surendra Sai Airport"
+    },
+    {
+      "id": "7d810383-ed27-4ef5-8ed8-46ec7055bc8a",
+      "type": "city",
+      "code": "ISK",
+      "name": "Nasik",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.811264,
+        "lat": 19.966942
+      },
+      "index_strings": [],
+      "weight": 17,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Gandhinagar Airport"
+    },
+    {
+      "id": "019b58ef-29ba-4619-8f0a-fe0884f47331",
+      "type": "city",
+      "code": "IXJ",
+      "name": "Jammu",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.84283,
+        "lat": 32.68077
+      },
+      "index_strings": [],
+      "weight": 56,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Satwari Airport"
+    },
+    {
+      "id": "17b031fc-c9e4-4348-87fa-e9bee494f43e",
+      "type": "city",
+      "code": "SHL",
+      "name": "Umroi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 91.88333,
+        "lat": 25.566668
+      },
+      "index_strings": [],
+      "weight": 4,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Shillong Airport"
+    },
+    {
+      "id": "b5905848-7414-4089-b0e5-f5b399aad6e4",
+      "type": "city",
+      "code": "GWL",
+      "name": "Gwalior",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.23,
+        "lat": 26.293888
+      },
+      "index_strings": [],
+      "weight": 32,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Gwalior Airport"
+    },
+    {
+      "id": "b378b4bb-af93-45de-904c-3e65782e6d0d",
+      "type": "city",
+      "code": "RPR",
+      "name": "Raipur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 81.73975,
+        "lat": 21.18456
+      },
+      "index_strings": [],
+      "weight": 50,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Swami Vivekananda Airport"
+    },
+    {
+      "id": "277ed2dc-b44c-43c8-b32c-67a110ee3a9a",
+      "type": "city",
+      "code": "KQH",
+      "name": "Ajmer",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.6399,
+        "lat": 26.4499
+      },
+      "index_strings": [],
+      "weight": 3,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kishangarh"
+    },
+    {
+      "id": "a8ffb467-aa0d-42f0-b675-f35afb1d9f40",
+      "type": "city",
+      "code": "MYQ",
+      "name": "Mysore",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.65,
+        "lat": 12.3
+      },
+      "index_strings": [],
+      "weight": 6,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Mysore"
+    },
+    {
+      "id": "356cef5f-5c5a-4ae2-b58a-4f6d134d3b4a",
+      "type": "city",
+      "code": "AJL",
+      "name": "Aizawl",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 92.62482,
+        "lat": 23.838985
+      },
+      "index_strings": [],
+      "weight": 3,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Aizawl Airport"
+    },
+    {
+      "id": "e3236727-fab6-4e53-8ad3-4b07693237bb",
+      "type": "city",
+      "code": "IXR",
+      "name": "Ranchi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 85.32285,
+        "lat": 23.318192
+      },
+      "index_strings": [],
+      "weight": 78,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Birsa Munda Airport"
+    },
+    {
+      "id": "326504fd-546d-48ee-a192-12a0dd13fa2c",
+      "type": "city",
+      "code": "BHO",
+      "name": "Bhopal",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.34177,
+        "lat": 23.284761
+      },
+      "index_strings": [],
+      "weight": 37,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Raja Bhoj Airport"
+    },
+    {
+      "id": "13f0371c-0f7a-468c-ac77-1ae83cfa2bc9",
+      "type": "city",
+      "code": "IDR",
+      "name": "Indore",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.80944,
+        "lat": 22.728651
+      },
+      "index_strings": [],
+      "weight": 75,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Devi Ahilya Bai Holkar Airport"
+    },
+    {
+      "id": "a187d371-41fa-4aed-96a7-301229231098",
+      "type": "city",
+      "code": "SAG",
+      "name": "Shirdi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": "AK",
+      "coordinates": {
+        "lon": 74.48,
+        "lat": 19.77
+      },
+      "index_strings": [],
+      "weight": 16,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Shirdi"
+    },
+    {
+      "id": "558596f5-eb0b-4549-99a6-4913d07ec561",
+      "type": "city",
+      "code": "GDB",
+      "name": "Gondia",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 80.195,
+        "lat": 21.4598
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Gondia Airport"
+    },
+    {
+      "id": "3e818943-8c28-4539-8fdf-b39cd53f888f",
+      "type": "city",
+      "code": "PAB",
+      "name": "Bilaspur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.833336,
+        "lat": 31.316668
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bilaspur"
+    },
+    {
+      "id": "c325a7cf-58bb-4e86-8540-d2ae704007ef",
+      "type": "city",
+      "code": "CDP",
+      "name": "Cuddapah",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 78.78333,
+        "lat": 14.516667
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Cuddapah"
+    },
+    {
+      "id": "79e07e28-c06f-45a2-87d4-b8d8772546c8",
+      "type": "city",
+      "code": "GBI",
+      "name": "Kalaburagi",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 76.825,
+        "lat": 26.666668
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kalaburagi Airport"
+    },
+    {
+      "id": "696af3cd-7b94-4ca9-94fd-e6147224c6eb",
+      "type": "city",
+      "code": "IXY",
+      "name": "Kandla",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.104164,
+        "lat": 23.11111
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kandla"
+    },
+    {
+      "id": "fe605da4-0dd3-4735-b54c-a9c5ea916f4a",
+      "type": "city",
+      "code": "VDY",
+      "name": "Vidyanagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.10856,
+        "lat": 18.454132
+      },
+      "index_strings": [],
+      "weight": 5,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jindal Vijaynagar"
+    },
+    {
+      "id": "0b37441c-e2e8-44fe-93fa-c973d83b4b21",
+      "type": "city",
+      "code": "JGA",
+      "name": "Jamnagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.01195,
+        "lat": 22.463333
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Govardhanpur Airport"
+    },
+    {
+      "id": "0a4177dc-6fb5-4ca7-8b06-b8c28234e679",
+      "type": "city",
+      "code": "JRH",
+      "name": "Jorhat",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 94.1849,
+        "lat": 26.734484
+      },
+      "index_strings": [],
+      "weight": 2,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Rowriah Airport"
+    },
+    {
+      "id": "091d50a0-537d-4d43-acfe-e9b721a18b0d",
+      "type": "city",
+      "code": "HBX",
+      "name": "Hubli",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.08608,
+        "lat": 15.358738
+      },
+      "index_strings": [],
+      "weight": 11,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Hubli Airport"
+    },
+    {
+      "id": "fbcd4a51-0845-4043-a8ff-b881eaf481f1",
+      "type": "city",
+      "code": "SDW",
+      "name": "Malvan",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.466698,
+        "lat": 16.0667
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Sindhudurg-Chipi"
+    },
+    {
+      "id": "ffea8163-e377-42c1-8e7e-f637f27f3180",
+      "type": "city",
+      "code": "ZER",
+      "name": "Ziro",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 93.833336,
+        "lat": 27.633333
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Zero Airport"
+    },
+    {
+      "id": "b1f89da2-b9cd-4962-92e9-9cfe4c5b6c6d",
+      "type": "city",
+      "code": "RQY",
+      "name": "Shimoga",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.566667,
+        "lat": 13.933333
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Shivamogga Airport"
+    },
+    {
+      "id": "8681a7cb-2467-4e01-8e93-698e29446de6",
+      "type": "city",
+      "code": "UKE",
+      "name": "Bhawanipatna",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 83.128,
+        "lat": 19.91
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Utkela Airport"
+    },
+    {
+      "id": "303faf00-ebad-426f-b9bb-3124caa77c75",
+      "type": "city",
+      "code": "JGB",
+      "name": "Jagdalpur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 82.03333,
+        "lat": 19.066668
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jagdalpur"
+    },
+    {
+      "id": "02491ef7-ca11-4b5f-8470-bcabf473b9d7",
+      "type": "city",
+      "code": "BKB",
+      "name": "Bikaner",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 73.3,
+        "lat": 28.016666
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bikaner"
+    },
+    {
+      "id": "dd16b90b-01c3-4205-938d-3b72c7dbf710",
+      "type": "city",
+      "code": "IXK",
+      "name": "Keshod",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.270836,
+        "lat": 21.319445
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Keshod"
+    },
+    {
+      "id": "8fc71879-94b3-4226-9409-512956c0b52d",
+      "type": "city",
+      "code": "PYB",
+      "name": "Jeypore",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 82.63333,
+        "lat": 18.833332
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Jeypore"
+    },
+    {
+      "id": "aee58efd-b4b4-4b8f-9db3-a3d330872cdb",
+      "type": "city",
+      "code": "PNY",
+      "name": "Pondicherry",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 79.8,
+        "lat": 12.016667
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Pondicherry"
+    },
+    {
+      "id": "b183f2c7-4b71-424b-9fbc-f15626013eac",
+      "type": "city",
+      "code": "RRK",
+      "name": "Rourkela",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 84.81472,
+        "lat": 22.256666
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Rourkela"
+    },
+    {
+      "id": "fd3c837b-8197-46ec-bb90-aaa4267934da",
+      "type": "city",
+      "code": "KLH",
+      "name": "Kolhapur",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.333336,
+        "lat": 16.666668
+      },
+      "index_strings": [],
+      "weight": 5,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kolhapur"
+    },
+    {
+      "id": "10a86f89-1a0e-4c52-bbb1-4b84fdb33a8c",
+      "type": "city",
+      "code": "BEK",
+      "name": "Bareli",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 81.23333,
+        "lat": 26.216667
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bareilly"
+    },
+    {
+      "id": "d363e110-39b6-4892-903a-839a1d4e9a06",
+      "type": "city",
+      "code": "RAJ",
+      "name": "Rajkot",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.78235,
+        "lat": 22.308674
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": null
+    },
+    {
+      "id": "11599ec8-bacd-48d8-b0b8-b3927e81ef03",
+      "type": "city",
+      "code": "KBK",
+      "name": "Kushinagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 83.888,
+        "lat": 26.741
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Kushinagar"
+    },
+    {
+      "id": "eaac8aa9-592c-4927-bded-583eada6f294",
+      "type": "city",
+      "code": "IXP",
+      "name": "Pathankot",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.63333,
+        "lat": 32.216667
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Pathankot"
+    },
+    {
+      "id": "5fb1e4b9-bf6b-4971-86fe-fc4856206e8b",
+      "type": "city",
+      "code": "LUH",
+      "name": "Ludhiana",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 75.85,
+        "lat": 30.9
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Ludhiana Sahnewal Airport"
+    },
+    {
+      "id": "5f2d2a97-93c0-4ae8-b4d2-ef7151b8a9ab",
+      "type": "city",
+      "code": "PYG",
+      "name": "Gangtok",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 88.6122,
+        "lat": 27.3257
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Pakyong Airport"
+    },
+    {
+      "id": "45ced225-d3bf-4752-850f-5f1eb485bf28",
+      "type": "city",
+      "code": "COH",
+      "name": "Cooch Behar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 89.46667,
+        "lat": 26.333332
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Cooch Behar"
+    },
+    {
+      "id": "51b6969c-586a-40f2-8b82-eb68993ff79b",
+      "type": "city",
+      "code": "BUP",
+      "name": "Bhatinda",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 74.96667,
+        "lat": 30.166668
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bhatinda Airport"
+    },
+    {
+      "id": "bd5ac587-7d10-4a4e-a553-1469608cc627",
+      "type": "city",
+      "code": "TEZ",
+      "name": "Salonibari",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 92.79611,
+        "lat": 26.710833
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Tezpur Airport"
+    },
+    {
+      "id": "ae22b874-23f2-4993-9a4b-d90c73a10c83",
+      "type": "city",
+      "code": "BHU",
+      "name": "Bhavnagar",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 72.18444,
+        "lat": 21.755
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Bhavnagar Airport"
+    },
+    {
+      "id": "92a35f9c-208c-4707-952c-953430ad012b",
+      "type": "city",
+      "code": "IXI",
+      "name": "Lilabari",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 94.08889,
+        "lat": 27.290277
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Lilabari Airport"
+    },
+    {
+      "id": "f4e22834-7b0b-46dc-8766-e9fe1df8a1c7",
+      "type": "city",
+      "code": "AGX",
+      "name": "Agatti Island",
+      "country_code": "IN",
+      "country_name": "India",
+      "state_code": null,
+      "coordinates": {
+        "lon": 72.17987,
+        "lat": 10.828967
+      },
+      "index_strings": [],
+      "weight": 8,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Agatti Island Airport"
+    },
+    {
+      "id": "b756df66-5dfd-4b68-b782-7b1ffa5f4451",
+      "type": "airport",
+      "code": "HSR",
+      "name": "Rajkot Hirasar",
+      "country_code": "IN",
+      "country_name": "India",
+      "city_code": "RAJ",
+      "city_name": "Rajkot",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.78235,
+        "lat": 22.308674
+      },
+      "index_strings": [],
+      "weight": 18,
+      "cases": null,
+      "city_cases": null,
+      "country_cases": null
+    },
+    {
+      "id": "7e31bb75-9b18-4ffd-8bf1-aab26e845cff",
+      "type": "city",
+      "code": "CTG",
+      "name": "Cartagena",
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "state_code": null,
+      "coordinates": {
+        "lon": -75.51659,
+        "lat": 10.445704
+      },
+      "index_strings": [],
+      "weight": 452,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Rafael Nunez International Airport"
+    },
+    {
+      "id": "d680fc42-5e0d-4931-b346-fbc73cbb7507",
+      "type": "airport",
+      "code": "RAJ",
+      "name": "Civil Airport",
+      "country_code": "IN",
+      "country_name": "India",
+      "city_code": "RAJ",
+      "city_name": "Rajkot",
+      "state_code": null,
+      "coordinates": {
+        "lon": 70.823506,
+        "lat": 22.208674
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "city_cases": null,
+      "country_cases": null
+    },
+    {
+      "id": "19f11279-1c4a-47a3-b199-ea8da132c871",
+      "type": "airport",
+      "code": "QAH",
+      "name": "Hindon Airport",
+      "country_code": "IN",
+      "country_name": "India",
+      "city_code": "DEL",
+      "city_name": "Delhi",
+      "state_code": null,
+      "coordinates": {
+        "lon": 77.342137,
+        "lat": 28.70579
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "city_cases": null,
+      "country_cases": null
+    },
+    {
+      "id": "ce44b9f8-4926-4ef6-8128-ad820beca80c",
+      "type": "city",
+      "code": "EVV",
+      "name": "Evansville",
+      "country_code": "US",
+      "country_name": "United States",
+      "state_code": "IN",
+      "coordinates": {
+        "lon": -87.52796,
+        "lat": 38.046165
+      },
+      "index_strings": [],
+      "weight": 39,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Evansville Regional Airport"
+    },
+    {
+      "id": "64efe563-9f44-4389-9c20-9876aff67589",
+      "type": "city",
+      "code": "SBN",
+      "name": "South Bend",
+      "country_code": "US",
+      "country_name": "United States",
+      "state_code": "IN",
+      "coordinates": {
+        "lon": -86.31335,
+        "lat": 41.700554
+      },
+      "index_strings": [],
+      "weight": 31,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "South Bend Regional"
+    },
+    {
+      "id": "3cd25101-3b7b-4279-b109-e294c89fd289",
+      "type": "city",
+      "code": "TYD",
+      "name": "Tynda",
+      "country_code": "RU",
+      "country_name": "Russia",
+      "state_code": null,
+      "coordinates": {
+        "lon": 124.73333,
+        "lat": 55.283333
+      },
+      "index_strings": [],
+      "weight": 586,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Tynda Airport"
+    },
+    {
+      "id": "a787f93d-1fc4-4cf4-9941-94478824e361",
+      "type": "city",
+      "code": "IGD",
+      "name": "Igdir",
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "state_code": null,
+      "coordinates": {
+        "lon": 43.879723,
+        "lat": 39.974445
+      },
+      "index_strings": [],
+      "weight": 194,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Igdir"
+    },
+    {
+      "id": "edca1d24-3bf6-45cb-88dd-0db0c58922ee",
+      "type": "city",
+      "code": "SDN",
+      "name": "Sandane",
+      "country_code": "NO",
+      "country_name": "Norway",
+      "state_code": null,
+      "coordinates": {
+        "lon": 6.216667,
+        "lat": 61.766666
+      },
+      "index_strings": [],
+      "weight": 21,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Sandane Airport"
+    },
+    {
+      "id": "6a8333ae-cbf3-4d40-87b3-be54c295284e",
+      "type": "city",
+      "code": "YIN",
+      "name": "Yining",
+      "country_code": "CN",
+      "country_name": "China",
+      "state_code": null,
+      "coordinates": {
+        "lon": 81.33144,
+        "lat": 43.952
+      },
+      "index_strings": [],
+      "weight": 29,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Yining Airport"
+    },
+    {
+      "id": "ee671fc5-37aa-46e2-b534-9ca62059c17e",
+      "type": "city",
+      "code": "SJW",
+      "name": "Shijiazhuang",
+      "country_code": "CN",
+      "country_name": "China",
+      "state_code": null,
+      "coordinates": {
+        "lon": 114.69443,
+        "lat": 38.274376
+      },
+      "index_strings": [],
+      "weight": 27,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Shijiazhuang Daguocun Airport"
+    },
+    {
+      "id": "caad9e3d-7438-4df7-b52e-678cba0d178b",
+      "type": "city",
+      "code": "JUL",
+      "name": "Juliaca",
+      "country_code": "PE",
+      "country_name": "Peru",
+      "state_code": null,
+      "coordinates": {
+        "lon": -70.15444,
+        "lat": -15.464167
+      },
+      "index_strings": [],
+      "weight": 25,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Juliaca Airport"
+    },
+    {
+      "id": "568cafe9-77fd-4691-ba6b-3174312454a4",
+      "type": "city",
+      "code": "INA",
+      "name": "Inta",
+      "country_code": "RU",
+      "country_name": "Russia",
+      "state_code": null,
+      "coordinates": {
+        "lon": 60.1,
+        "lat": 66.066666
+      },
+      "index_strings": [],
+      "weight": 1,
+      "cases": null,
+      "country_cases": null,
+      "main_airport_name": "Inta Airport"
+    }
+  ]
 }
