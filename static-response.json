@@ -1,78 +1,229 @@
 [
-	{
-		"email": "kannikeqsh@1farefirst.com",
-		"attributes": {
-			"firstName": "Kannikesh",
-			"lastName": "Kumar",
-			"userCountry": "India",
-			"travelDate": "September 18, 2024 at 11:35:33 AM UTC+5:30",
-			"travelCountry": "Dubai"
-		},
-		"emailBlacklisted": false,
-		"smsBlacklisted": false,
-		"listIds": [
-			1
-		],
-		"updateEnabled": false,
-		"smtpBlacklistSender": [
-			"info@sendinblue.com"
-		]
-	},
-{
-		"email": "yojan@1farefirst.com",
-		"attributes": {
-			"firstName": "Kannikesh",
-			"lastName": "Kumar",
-			"userCountry": "India",
-			"travelDate": "September 18, 2024 at 11:35:33 AM UTC+5:30",
-			"travelCountry": "Dubai"
-		},
-		"emailBlacklisted": false,
-		"smsBlacklisted": false,
-		"listIds": [
-			1
-		],
-		"updateEnabled": false,
-		"smtpBlacklistSender": [
-			"info@sendinblue.com"
-		]
-	},
-{
-		"email": "yojan1@1farefirst.com",
-		"attributes": {
-			"firstName": "Kannikesh",
-			"lastName": "Kumar",
-			"userCountry": "India",
-			"travelDate": "September 18, 2024 at 11:35:33 AM UTC+5:30",
-			"travelCountry": "Dubai"
-		},
-		"emailBlacklisted": false,
-		"smsBlacklisted": false,
-		"listIds": [
-			1
-		],
-		"updateEnabled": false,
-		"smtpBlacklistSender": [
-			"info@sendinblue.com"
-		]
-	},
-{
-		"email": "yojan2@1farefirst.com",
-		"attributes": {
-			"firstName": "Kannikesh",
-			"lastName": "Kumar",
-			"userCountry": "India",
-			"travelDate": "September 18, 2024 at 11:35:33 AM UTC+5:30",
-			"travelCountry": "Dubai"
-		},
-		"emailBlacklisted": false,
-		"smsBlacklisted": false,
-		"listIds": [
-			1
-		],
-		"updateEnabled": false,
-		"smtpBlacklistSender": [
-			"info@sendinblue.com"
-		]
-	}
+    {
+        "email": "john.doe@1farefirst.com",
+        "attributes": {
+            "firstName": "John",
+            "lastName": "Doe",
+            "userCountry": "USA",
+            "travelDate": "October 10, 2024 at 10:30:00 AM UTC-5:00",
+            "travelCountry": "Germany"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "jane.smith@1farefirst.com",
+        "attributes": {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "userCountry": "Canada",
+            "travelDate": "October 12, 2024 at 11:00:00 AM UTC-5:00",
+            "travelCountry": "France"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "raj.patel@1farefirst.com",
+        "attributes": {
+            "firstName": "Raj",
+            "lastName": "Patel",
+            "userCountry": "India",
+            "travelDate": "September 20, 2024 at 9:15:00 AM UTC+5:30",
+            "travelCountry": "UK"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "maria.garcia@1farefirst.com",
+        "attributes": {
+            "firstName": "Maria",
+            "lastName": "Garcia",
+            "userCountry": "Spain",
+            "travelDate": "October 5, 2024 at 8:00:00 AM UTC+2:00",
+            "travelCountry": "Italy"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "li.wei@1farefirst.com",
+        "attributes": {
+            "firstName": "Li",
+            "lastName": "Wei",
+            "userCountry": "China",
+            "travelDate": "October 15, 2024 at 10:45:00 AM UTC+8:00",
+            "travelCountry": "Japan"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "ahmed.khan@1farefirst.com",
+        "attributes": {
+            "firstName": "Ahmed",
+            "lastName": "Khan",
+            "userCountry": "Pakistan",
+            "travelDate": "September 30, 2024 at 9:00:00 AM UTC+5:00",
+            "travelCountry": "Saudi Arabia"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "emily.johnson@1farefirst.com",
+        "attributes": {
+            "firstName": "Emily",
+            "lastName": "Johnson",
+            "userCountry": "Australia",
+            "travelDate": "October 18, 2024 at 12:30:00 PM UTC+10:00",
+            "travelCountry": "New Zealand"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "yuki.tanaka@1farefirst.com",
+        "attributes": {
+            "firstName": "Yuki",
+            "lastName": "Tanaka",
+            "userCountry": "Japan",
+            "travelDate": "October 21, 2024 at 1:15:00 PM UTC+9:00",
+            "travelCountry": "South Korea"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "peter.smith@1farefirst.com",
+        "attributes": {
+            "firstName": "Peter",
+            "lastName": "Smith",
+            "userCountry": "UK",
+            "travelDate": "September 25, 2024 at 10:00:00 AM UTC+1:00",
+            "travelCountry": "Ireland"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "sophia.martinez@1farefirst.com",
+        "attributes": {
+            "firstName": "Sophia",
+            "lastName": "Martinez",
+            "userCountry": "Mexico",
+            "travelDate": "October 28, 2024 at 11:00:00 AM UTC-6:00",
+            "travelCountry": "Brazil"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "robert.brown@1farefirst.com",
+        "attributes": {
+            "firstName": "Robert",
+            "lastName": "Brown",
+            "userCountry": "Australia",
+            "travelDate": "October 14, 2024 at 9:00:00 AM UTC+10:00",
+            "travelCountry": "Singapore"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "lucas.mendes@1farefirst.com",
+        "attributes": {
+            "firstName": "Lucas",
+            "lastName": "Mendes",
+            "userCountry": "Brazil",
+            "travelDate": "October 20, 2024 at 10:00:00 AM UTC-3:00",
+            "travelCountry": "Argentina"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "hannah.lee@1farefirst.com",
+        "attributes": {
+            "firstName": "Hannah",
+            "lastName": "Lee",
+            "userCountry": "South Korea",
+            "travelDate": "September 29, 2024 at 11:30:00 AM UTC+9:00",
+            "travelCountry": "Thailand"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "nina.rossi@1farefirst.com",
+        "attributes": {
+            "firstName": "Nina",
+            "lastName": "Rossi",
+            "userCountry": "Italy",
+            "travelDate": "October 19, 2024 at 9:00:00 AM UTC+2:00",
+            "travelCountry": "Greece"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    },
+    {
+        "email": "oliver.jones@1farefirst.com",
+        "attributes": {
+            "firstName": "Oliver",
+            "lastName": "Jones",
+            "userCountry": "UK",
+            "travelDate": "September 27, 2024 at 12:00:00 PM UTC+1:00",
+            "travelCountry": "Sweden"
+        },
+        "emailBlacklisted": false,
+        "smsBlacklisted": false,
+        "listIds": [1],
+        "updateEnabled": false,
+        "smtpBlacklistSender": ["info@sendinblue.com"]
+    }
 ]
+  
+  
