@@ -1,22 +1,21 @@
 [
 	{
-	"email": "kannikeqsh@1farefirst.com",
-	"attributes": {
-		"firstName": "Kannikesh",
-		"lastName": "Kumar",
-		"userCountry": "India",
-		"travelDate": "September 18, 2024 at 11:35:33 AM UTC+5:30",
-		"travelCountry": "Dubai"
-	},
-	"emailBlacklisted": false,
-	"smsBlacklisted": false,
-	"listIds": [
-		1
-	],
-	"updateEnabled": false,
-	"smtpBlacklistSender": [
-		"info@sendinblue.com"
-	]
-}
+		"email": "kannikeqsh@1farefirst.com",
+		"attributes": {
+			"firstName": "Kannikesh",
+			"lastName": "Kumar",
+			"userCountry": "India",
+			"travelDate": "September 18, 2024 at 11:35:33 AM UTC+5:30",
+			"travelCountry": "Dubai"
+		},
+		"emailBlacklisted": false,
+		"smsBlacklisted": false,
+		"listIds": [
+			1
+		],
+		"updateEnabled": false,
+		"smtpBlacklistSender": [
+			"info@sendinblue.com"
+		]
+	}
 ]
-
